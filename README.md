@@ -1,66 +1,56 @@
-# Hi there 👋 I'm Rauzan Sumara
+# 👋 Hi, I'm Rauzan Sumara
 
 <div align="center">
-  
-![Banner](https://img.shields.io/badge/Data_Scientist-PhD_Student-blue)
-![Location](https://img.shields.io/badge/Location-Warsaw,_Poland-green)
-[![Blog](https://img.shields.io/badge/Blog-rauzansumara.github.io-orange)](https://rauzansumara.github.io)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3B7BBF&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Statistician+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
-## About Me 🎓
+## 🎓 About Me
 
-Data Scientist and PhD student in Informatics & Telecommunications at Warsaw University of Technology. Passionate about applied statistics, big data analytics, and machine learning.
+I'm a Data Scientist with advanced expertise in applied statistics, big data analytics, time series modeling, and machine learning, I bridge the gap between complex data problems and innovative solutions.
 
-### 🔭 Current Focus
-- Research in Time Series Classification
-- Machine Learning & Deep Learning
+## 🔬 Research Interests
+
+- Time Series Modelling
+- Deep Learning / Machine Learning
 - Big Data Analytics
+- Statistical Modeling
 
-### 🛠️ Tech Stack
-```python
-{
-    'Languages': ['Python', 'R', 'SQL'],
-    'ML/DL': ['Scikit-learn', 'TensorFlow', 'PyTorch'],
-    'Data': ['PostgreSQL', 'Apache Spark', 'MySQL'],
-    'Visualization': ['Tableau', 'Matplotlib', 'Seaborn']
-}
-```
+## 🛠️ Tech Stack
 
-### 🏆 Recent Achievements
-- Published research on Stacked Ensemble Learning for Time Series Classification
-- Instructor at Warsaw University of Technology
-- Multiple international conference presentations (ICCS 2024, PACIS 2024)
+<div align="center">
 
-### 📊 GitHub Stats
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
+### Data Science Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1C2957?style=for-the-badge&logo=sas&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
+
+## 🎯 Professional Experience
+
+- 🎓 **Instructor** - Computer Statistics & Machine Learning Lab, Warsaw University of Technology (2021-Present)
+- 💻 **Freelance Data Scientist** (2018-Present)
+- 👨‍🏫 **Instructor** - Data Business Analytics & Operations at Ruang Guru, Indonesia (2022)
+- 👨‍🏫 **Mentor** - Accelerated Machine Learning at Zenius, Indonesia (2022)
+
+## 📫 Connect with Me
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=rauzansumara)
-[![GitHub followers](https://img.shields.io/github/followers/rauzansumara?style=social)](https://github.com/rauzansumara)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rauzansumara.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rauzan.sumara@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rauzan-sumara)
 
 </div>
-
-### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/rauzansumara)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rauzan.sumara.dokt@pw.edu.pl)
-
----
-<div align="center">
-  <i>"Transforming data into insights through research and innovation"</i>
-</div>
-
-<!--
-**rauzansumara/rauzansumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

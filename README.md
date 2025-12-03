@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a Data Scientist with advanced expertise in applied statistics, big data analytics, time series modeling, and machine learning, I bridge the gap between complex data problems and innovative solutions.
+I'm a Data Scientist with advanced expertise in applied statistics, big data analytics, time series modeling, and ML/DL. I bridge the gap between complex data problems and innovative solutions.
 
 ## 🔬 Research Interests
 

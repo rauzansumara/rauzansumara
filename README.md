@@ -38,13 +38,6 @@ I'm a Data Scientist with advanced expertise in applied statistics, big data ana
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 </div>
 
-## 🎯 Professional Experience
-
-- 🎓 **Instructor** - Computer Statistics & Machine Learning Lab, Warsaw University of Technology (2021-Present)
-- 💻 **Freelance Data Scientist** (2018-Present)
-- 👨‍🏫 **Instructor** - Data Business Analytics & Operations at Ruang Guru, Indonesia (2022)
-- 👨‍🏫 **Mentor** - Accelerated Machine Learning at Zenius, Indonesia (2022)
-
 ## 📫 Connect with Me
 
 <div align="center">
